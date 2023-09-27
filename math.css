@@ -1,0 +1,28 @@
+body
+{
+    background-color:#AA4465;
+    font-family: 'Mooli', sans-serif;
+
+}
+.login_div1 , .login_div2
+	{
+		background: rgb(230, 180, 180);
+		padding: 20px 30px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 50px;
+        width: 20%;
+        
+	}
+
+ button
+ {
+    color: rgb(49, 9, 9);
+    background-color: rgb(183, 141, 141);
+    font-size: 25px;
+    display: inline-block;
+    border:ridge;
+    width: 10%;
+    height: 10%;
+    font-family: 'Mooli', sans-serif;
+ }
